@@ -1,1 +1,3 @@
 # assignment2
+The vase problem, I would choose the second stategy as it would allow the flow to be consistent with "available" and "busy" status for each visit, therefore making the performance of multithreading better.
+When setting the number of guests to be 50, the runtime of both problem is about 7 seconds, when it down to 10 guest, it only takes 7ms. This proves that the methods really improve the performance. 
